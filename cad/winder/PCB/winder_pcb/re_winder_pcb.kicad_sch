@@ -4460,6 +4460,12 @@
 		(uuid "2aba2b17-f9d0-48ee-a55c-8cdc09fd74bd")
 	)
 	(junction
+		(at 55.88 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "37ea4351-4db8-4df4-9339-ddad0c29f7b8")
+	)
+	(junction
 		(at 195.58 157.48)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4561,6 +4567,12 @@
 		(color 0 0 0 0)
 		(uuid "f18f810c-c370-4faa-bbcd-f0b911b289d2")
 	)
+	(junction
+		(at 43.18 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fc11dfa0-d03e-439d-841c-6acfa36c29cd")
+	)
 	(no_connect
 		(at 175.26 72.39)
 		(uuid "37f7f725-c41d-4ecf-90c1-496ed22c73b5")
@@ -4644,16 +4656,6 @@
 			(type default)
 		)
 		(uuid "0a4a23d6-c05f-46fa-aff4-7bd29630a607")
-	)
-	(wire
-		(pts
-			(xy 55.88 77.47) (xy 55.88 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0b91ce22-6a4d-4f06-8cae-30a499f7951b")
 	)
 	(wire
 		(pts
@@ -4917,6 +4919,16 @@
 	)
 	(wire
 		(pts
+			(xy 45.72 74.93) (xy 45.72 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a9165ed-9ec2-4895-895b-249dc9343746")
+	)
+	(wire
+		(pts
 			(xy 166.37 123.19) (xy 176.53 123.19)
 		)
 		(stroke
@@ -4994,6 +5006,26 @@
 			(type default)
 		)
 		(uuid "5039ed4c-9de7-4f5d-a6c0-5f10d705373b")
+	)
+	(wire
+		(pts
+			(xy 45.72 69.85) (xy 43.18 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50628628-7c58-45c9-a201-4ccf369dcb5d")
+	)
+	(wire
+		(pts
+			(xy 55.88 69.85) (xy 55.88 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51500ca6-2df7-4b17-9f38-79a79a10f919")
 	)
 	(wire
 		(pts
@@ -5367,6 +5399,16 @@
 	)
 	(wire
 		(pts
+			(xy 43.18 69.85) (xy 43.18 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90f4e288-c361-4e6e-aebb-2315f847316b")
+	)
+	(wire
+		(pts
 			(xy 245.11 113.03) (xy 248.92 113.03)
 		)
 		(stroke
@@ -5424,16 +5466,6 @@
 			(type default)
 		)
 		(uuid "a2927287-fee7-48e7-af4b-e1ad2655296a")
-	)
-	(wire
-		(pts
-			(xy 45.72 73.66) (xy 45.72 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a379b5e9-05af-4bf2-9ec5-d5490136741e")
 	)
 	(wire
 		(pts
@@ -5504,6 +5536,16 @@
 			(type default)
 		)
 		(uuid "bc27dc95-c79d-4769-8cb3-625fefc4ea07")
+	)
+	(wire
+		(pts
+			(xy 53.34 69.85) (xy 55.88 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc353e93-5b5b-48c6-b338-6507d6b3e63c")
 	)
 	(wire
 		(pts
@@ -5764,6 +5806,16 @@
 			(type default)
 		)
 		(uuid "e3ee7102-af19-46b0-8fd9-f6803a6e19e5")
+	)
+	(wire
+		(pts
+			(xy 36.83 74.93) (xy 45.72 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e722d167-8dbf-48af-a2eb-b97aa79dafc0")
 	)
 	(wire
 		(pts
@@ -6116,7 +6168,7 @@
 		(uuid "758e4749-73ce-4c2e-9b0e-5604c15c3bce")
 	)
 	(label "GPIO_14"
-		(at 45.72 73.66 0)
+		(at 36.83 74.93 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7977,34 +8029,31 @@
 	)
 	(symbol
 		(lib_id "Diode:SS14")
-		(at 55.88 73.66 90)
+		(at 49.53 69.85 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8fe4059a-9bb8-4491-9bed-fc23cea24c2c")
 		(property "Reference" "FAN_D1"
-			(at 58.42 72.7074 90)
+			(at 49.53 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Value" "SS14"
-			(at 58.42 75.2474 90)
+			(at 49.53 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMA"
-			(at 60.325 73.66 0)
+			(at 49.53 74.295 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8013,7 +8062,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/88746/ss12.pdf"
-			(at 55.88 73.66 0)
+			(at 49.53 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8022,7 +8071,7 @@
 			)
 		)
 		(property "Description" "40V 1A Schottky Diode, SMA"
-			(at 55.88 73.66 0)
+			(at 49.53 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
