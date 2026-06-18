@@ -4034,7 +4034,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1mF"
+		(property "Value" "0.1uF"
 			(at 142.24 83.82 90)
 			(effects
 				(font

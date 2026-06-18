@@ -74,7 +74,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "../../../../../../guiter_winder_gerber/power_pcb/")
+			(outputdirectory "../../../../../../guitar_winder_gerber/power_pcb/")
 		)
 	)
 	(net 0 "")
@@ -5809,7 +5809,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1mF"
+		(property "Value" "0.1uF"
 			(at 0 1.85 90)
 			(layer "F.Fab")
 			(uuid "4d263e55-096e-458d-a511-5f83f81f7d15")

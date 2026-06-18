@@ -487,10 +487,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../../../../../../guiter_winder_gerber/power_pcb/",
+      "plot": "../../../../../../guitar_winder_gerber/power_pcb/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "guiter_winder_power.step",
+      "step": "guitar_winder_power.step",
       "svg": "",
       "vrml": ""
     },
