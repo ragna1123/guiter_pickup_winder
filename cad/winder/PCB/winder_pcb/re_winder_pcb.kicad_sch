@@ -6475,7 +6475,7 @@
 			(uuid "21d42c71-ca5a-4757-8cb1-8a37e9dfe869")
 		)
 		(instances
-			(project "guiter_winder_pcb"
+			(project "guitar_winder_pcb"
 				(path "/2e99614d-4f5f-4416-942d-d78bf2b34754"
 					(reference "#PWR03")
 					(unit 1)
@@ -7251,7 +7251,7 @@
 			(uuid "c2616df6-a34d-43f4-aa77-3f74b2a70f25")
 		)
 		(instances
-			(project "guiter_winder_pcb"
+			(project "guitar_winder_pcb"
 				(path "/2e99614d-4f5f-4416-942d-d78bf2b34754"
 					(reference "FAN_FET1")
 					(unit 1)
@@ -7317,7 +7317,7 @@
 			(uuid "1e838bce-41d5-4f42-ac62-783295f67dd2")
 		)
 		(instances
-			(project "guiter_winder_pcb"
+			(project "guitar_winder_pcb"
 				(path "/2e99614d-4f5f-4416-942d-d78bf2b34754"
 					(reference "#PWR04")
 					(unit 1)
@@ -7386,7 +7386,7 @@
 			(uuid "31da8236-e866-4d23-9e73-310e652d477c")
 		)
 		(instances
-			(project "guiter_winder_pcb"
+			(project "guitar_winder_pcb"
 				(path "/2e99614d-4f5f-4416-942d-d78bf2b34754"
 					(reference "IO_EN_R1")
 					(unit 1)
@@ -7528,7 +7528,7 @@
 			(uuid "33689819-0b6e-4e9e-939b-c5817b4e44cb")
 		)
 		(instances
-			(project "guiter_winder_pcb"
+			(project "guitar_winder_pcb"
 				(path "/2e99614d-4f5f-4416-942d-d78bf2b34754"
 					(reference "BZ_R1")
 					(unit 1)
@@ -7668,7 +7668,7 @@
 			(uuid "0b959b88-90f7-42a7-a53b-425b3a127a44")
 		)
 		(instances
-			(project "guiter_winder_pcb"
+			(project "guitar_winder_pcb"
 				(path "/2e99614d-4f5f-4416-942d-d78bf2b34754"
 					(reference "IO_12_R1")
 					(unit 1)
@@ -7881,7 +7881,7 @@
 			(uuid "6ca08a9d-597c-4210-a03f-f5ede4d095ad")
 		)
 		(instances
-			(project "guiter_winder_pcb"
+			(project "guitar_winder_pcb"
 				(path "/2e99614d-4f5f-4416-942d-d78bf2b34754"
 					(reference "IO_0_R1")
 					(unit 1)
@@ -8155,7 +8155,7 @@
 			(uuid "8cb785ad-d8c4-4347-83fc-9688e0239598")
 		)
 		(instances
-			(project "guiter_winder_pcb"
+			(project "guitar_winder_pcb"
 				(path "/2e99614d-4f5f-4416-942d-d78bf2b34754"
 					(reference "BZ_R2")
 					(unit 1)
@@ -8225,7 +8225,7 @@
 			(uuid "05fc2a7c-08c2-43bc-8158-4ee5fb13b1e2")
 		)
 		(instances
-			(project "guiter_winder_pcb"
+			(project "guitar_winder_pcb"
 				(path "/2e99614d-4f5f-4416-942d-d78bf2b34754"
 					(reference "FAN_R2")
 					(unit 1)
@@ -8430,7 +8430,7 @@
 			(uuid "693b2ee9-027c-44d8-9150-5ff6f5b40e64")
 		)
 		(instances
-			(project "guiter_winder_pcb"
+			(project "guitar_winder_pcb"
 				(path "/2e99614d-4f5f-4416-942d-d78bf2b34754"
 					(reference "#PWR02")
 					(unit 1)
@@ -8567,7 +8567,7 @@
 			(uuid "09197739-a366-4860-af4c-5b94c3d37fdd")
 		)
 		(instances
-			(project "guiter_winder_pcb"
+			(project "guitar_winder_pcb"
 				(path "/2e99614d-4f5f-4416-942d-d78bf2b34754"
 					(reference "FAN_R1")
 					(unit 1)
@@ -8637,7 +8637,7 @@
 			(uuid "b1de54b9-6292-4ca4-b45a-b7ddd03d6166")
 		)
 		(instances
-			(project "guiter_winder_pcb"
+			(project "guitar_winder_pcb"
 				(path "/2e99614d-4f5f-4416-942d-d78bf2b34754"
 					(reference "IO_15_R1")
 					(unit 1)
@@ -9054,7 +9054,7 @@
 			(uuid "d10d7004-ef69-4c28-b7cf-8a09656c0b49")
 		)
 		(instances
-			(project "guiter_winder_pcb"
+			(project "guitar_winder_pcb"
 				(path "/2e99614d-4f5f-4416-942d-d78bf2b34754"
 					(reference "#FLG02")
 					(unit 1)
@@ -9323,7 +9323,7 @@
 			(uuid "6ed59a3b-452f-4e8a-8409-61462aea1dcd")
 		)
 		(instances
-			(project "guiter_winder_pcb"
+			(project "guitar_winder_pcb"
 				(path "/2e99614d-4f5f-4416-942d-d78bf2b34754"
 					(reference "IO_2_R1")
 					(unit 1)
